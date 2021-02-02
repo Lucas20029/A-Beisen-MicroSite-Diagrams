@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T10:18:57.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="AhR2g3KM0K5boKGEKk8a" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T11:10:39.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Y9vu5qoGfJ4MvoJ_6tah" version="14.2.9" type="github">
   <diagram id="opj6cQ-oHb-ZNiN98mbR" name="Page-1">
     <mxGraphModel dx="1634" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
         <mxCell id="npHzGUYv4bvlZJb39J2E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-27" target="npHzGUYv4bvlZJb39J2E-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npHzGUYv4bvlZJb39J2E-27" value="读V3 JobAd对象" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="npHzGUYv4bvlZJb39J2E-27" value="读V3 JobAd&lt;br&gt;JobADAdditionalEntity&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="1386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-28" target="npHzGUYv4bvlZJb39J2E-13" edge="1">
@@ -348,14 +348,14 @@
         <mxCell id="npHzGUYv4bvlZJb39J2E-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-30" target="npHzGUYv4bvlZJb39J2E-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npHzGUYv4bvlZJb39J2E-30" value="读V3 JobAd对象" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="1386" width="120" height="60" as="geometry" />
+        <mxCell id="npHzGUYv4bvlZJb39J2E-30" value="读V3&lt;br&gt;JobAd&lt;br&gt;JobADAdditionalEntity&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1325" y="1386" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-31" target="npHzGUYv4bvlZJb39J2E-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npHzGUYv4bvlZJb39J2E-31" value="读V5 JobAd对象" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="1506" width="120" height="60" as="geometry" />
+        <mxCell id="npHzGUYv4bvlZJb39J2E-31" value="读V5 JobAd" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1325" y="1506" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-43" target="npHzGUYv4bvlZJb39J2E-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -399,25 +399,25 @@
         <mxCell id="npHzGUYv4bvlZJb39J2E-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-52" target="npHzGUYv4bvlZJb39J2E-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="npHzGUYv4bvlZJb39J2E-52" value="写V3 JobAd对象" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1047" y="1617" width="120" height="60" as="geometry" />
+        <mxCell id="npHzGUYv4bvlZJb39J2E-52" value="写V3 JobAd&lt;br&gt;JobADAdditionalObject&amp;nbsp;&lt;br&gt;JobADAdditionalEntity&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1047" y="1617" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="npHzGUYv4bvlZJb39J2E-53" target="npHzGUYv4bvlZJb39J2E-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-53" value="写V5 JobAd对象" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1047" y="1736" width="120" height="60" as="geometry" />
+          <mxGeometry x="1047" y="1736" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npHzGUYv4bvlZJb39J2E-55" value="添加工具日志&lt;br&gt;创建KeyMapping" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1207" y="1679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IB1pC-YoAAeZtRlb9XX2-1" value="上线前的职位广告（职位上标记是否微官网推荐）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="IB1pC-YoAAeZtRlb9XX2-1" value="上线前的职位广告（职位上标记是否微官网推荐）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="85" y="1335" width="689" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="IB1pC-YoAAeZtRlb9XX2-2" value="上线后的职位广告（广告上标记是否微官网推荐）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="IB1pC-YoAAeZtRlb9XX2-2" value="上线后的职位广告（广告上标记是否微官网推荐）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="774" y="1335" width="689" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="IB1pC-YoAAeZtRlb9XX2-4" value="合并数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="IB1pC-YoAAeZtRlb9XX2-4" value="合并数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1461" y="1335" width="146" height="33" as="geometry" />
         </mxCell>
       </root>
